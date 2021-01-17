@@ -1,4 +1,4 @@
-# Info
-My name is Philina
-18 y.o.
-Currently student of TMS
+# Info about repository owner
+* My name is Philina
+* 18 y.o.
+* Currently student of TMS
